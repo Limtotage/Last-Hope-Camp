@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 013772cb4d274cd4cbb0d053c822a9e2, type: 3}
+  m_Name: AnvilWorkerData
+  m_EditorClassIdentifier: Assembly-CSharp::ResourcePlacementObjectsSO
+  ResourceType: 3
+  ObjectPrefab: {fileID: 1803258067645571500, guid: 97983e0a6185ac449b4ec72657715275, type: 3}
+  GhostPrefab: {fileID: 5206473400230721277, guid: e4d6105b2c2d9ba4097d5e08db4fc310, type: 3}
+  ResourceRange: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab0842599a9a804cb8bf7c344f6c8eb, type: 3}
+  m_Name: AnvilCard
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardType: 0
+  woodCost: 200
+  foodCost: 0
+  goldCost: 200
+  swordCost: 0
