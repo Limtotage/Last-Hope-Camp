@@ -1,11 +1,3 @@
-## ⚠️ Asset License Notice
-
-This project contains references to third-party assets that are NOT included in this repository due to licensing restrictions.
-
-To run the project properly, you may need to import the required assets manually from the Unity Asset Store.
-
-All rights to those assets belong to their respective owners.
-
 # 🎮 Last Hope Camp
 
 **Last Hope Camp** is a strategy-based micromanagement game developed during a game jam with the theme **"Micromanagement"**. Your goal is simple: **build, manage, and survive**.
@@ -106,6 +98,21 @@ Every decision matters. Efficient resource management and smart worker placement
 
 * It is recommended to play the game in **fullscreen mode**.
 * Developed as part of a **game jam project**.
+---
+
+## ⚠️ Asset License Notice
+
+This project contains references to third-party assets that are NOT included in this repository due to licensing restrictions.
+
+To run the project properly, you may need to import the required assets manually from the Unity Asset Store.
+
+All rights to those assets belong to their respective owners.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+Note: Third-party assets are NOT included in this repository due to licensing restrictions.
 
 ---
 
