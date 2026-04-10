@@ -75,7 +75,10 @@ Every decision matters. Efficient resource management and smart worker placement
 
 ## 🖼️ Screenshots
 
-*(Add your game screenshots here)*
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/bb6e7f39-ea24-4f9c-b59e-f8a34918f5e7" />
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/682c9e00-ac0b-4437-9438-858fca6fa71e" />
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/4a8b000e-e5e3-41f6-a1d6-cc7e4e46321f" />
+
 
 ---
 
